@@ -2,3 +2,7 @@ Este arquivo é para o submodulo
 Que foi modificado e reenviado ao submodulo
 Que será reenviado da forma correta agora...
 pelo comando git push --recurse-submodules=on-demand
+que foi enviado errado novamente
+deve ser adicionado primeiro
+utilizando o comando
+git add .
