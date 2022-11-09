@@ -1,2 +1,4 @@
 Este arquivo é para o submodulo
 Que foi modificado e reenviado ao submodulo
+Que será reenviado da forma correta agora...
+pelo comando git push --recurse-submodules=on-demand
